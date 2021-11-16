@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300173583559",
+    "project_id": "ichat-43404",
+    "storage_bucket": "ichat-43404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300173583559:android:dc90d37bffe9b67d5ecae2",
+        "android_client_info": {
+          "package_name": "ak.dino.ichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300173583559-72oauu0r68kn8qf39916kdmf4j2gn97s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrSH7JT6mlNHc5a-qzkUozYoc5cH_6oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300173583559-72oauu0r68kn8qf39916kdmf4j2gn97s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
